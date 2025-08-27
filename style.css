@@ -1,7 +1,21 @@
 nav > ol > li {
-   display: block;
-   margin: 20px; 
+   display: inline;
+   margin-right: 15px ;
 }
 nav li >a {
     text-decoration:none;
 }
+footer { 
+    margin-top:10px ;
+     text-align: center;}
+article > header{ 
+    text-align: center;
+    background-color: aqua;
+}
+     article > section  { 
+           background-color: beige;
+            color: #046424;
+            text-align: justify;
+            text-decoration: solid;
+            border: 10PX springgreen;
+     }
