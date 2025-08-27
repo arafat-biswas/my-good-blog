@@ -1,0 +1,7 @@
+nav > ol > li {
+   display: block;
+   margin: 20px; 
+}
+nav li >a {
+    text-decoration:none;
+}
